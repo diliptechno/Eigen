@@ -1,4 +1,4 @@
-# Eigen tech Exercise
+# Exercise
 Exercise: Create Hashtags
   
 In the attached documents, find the most important words  across the enclosed sample documents, and the sentences where they are used to create the following table:
